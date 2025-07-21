@@ -1,6 +1,6 @@
 # hashpass
 
-A new Flutter project.
+Secure your secrets
 
 ## Getting Started
 
